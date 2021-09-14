@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/Site-Neto/static/css/main.cfe319ab.chunk.css",
-    "main.js": "/Site-Neto/static/js/main.ddedac85.chunk.js",
-    "main.js.map": "/Site-Neto/static/js/main.ddedac85.chunk.js.map",
+    "main.js": "/Site-Neto/static/js/main.bb0a9560.chunk.js",
+    "main.js.map": "/Site-Neto/static/js/main.bb0a9560.chunk.js.map",
     "runtime-main.js": "/Site-Neto/static/js/runtime-main.11bb8929.js",
     "runtime-main.js.map": "/Site-Neto/static/js/runtime-main.11bb8929.js.map",
-    "static/js/2.6523a0a2.chunk.js": "/Site-Neto/static/js/2.6523a0a2.chunk.js",
-    "static/js/2.6523a0a2.chunk.js.map": "/Site-Neto/static/js/2.6523a0a2.chunk.js.map",
+    "static/js/2.1a15cc47.chunk.js": "/Site-Neto/static/js/2.1a15cc47.chunk.js",
+    "static/js/2.1a15cc47.chunk.js.map": "/Site-Neto/static/js/2.1a15cc47.chunk.js.map",
     "index.html": "/Site-Neto/index.html",
     "static/css/main.cfe319ab.chunk.css.map": "/Site-Neto/static/css/main.cfe319ab.chunk.css.map",
-    "static/js/2.6523a0a2.chunk.js.LICENSE.txt": "/Site-Neto/static/js/2.6523a0a2.chunk.js.LICENSE.txt",
+    "static/js/2.1a15cc47.chunk.js.LICENSE.txt": "/Site-Neto/static/js/2.1a15cc47.chunk.js.LICENSE.txt",
     "static/media/Rectangle 3.6026691e.svg": "/Site-Neto/static/media/Rectangle 3.6026691e.svg",
     "static/media/btnUser.c4454bdc.svg": "/Site-Neto/static/media/btnUser.c4454bdc.svg",
     "static/media/com4logo.429554b8.png": "/Site-Neto/static/media/com4logo.429554b8.png",
@@ -25,8 +25,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.11bb8929.js",
-    "static/js/2.6523a0a2.chunk.js",
+    "static/js/2.1a15cc47.chunk.js",
     "static/css/main.cfe319ab.chunk.css",
-    "static/js/main.ddedac85.chunk.js"
+    "static/js/main.bb0a9560.chunk.js"
   ]
 }
