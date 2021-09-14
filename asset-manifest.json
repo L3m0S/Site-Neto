@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/Site-Neto/static/css/main.cfe319ab.chunk.css",
-    "main.js": "/Site-Neto/static/js/main.791ff501.chunk.js",
-    "main.js.map": "/Site-Neto/static/js/main.791ff501.chunk.js.map",
+    "main.js": "/Site-Neto/static/js/main.7da50fa4.chunk.js",
+    "main.js.map": "/Site-Neto/static/js/main.7da50fa4.chunk.js.map",
     "runtime-main.js": "/Site-Neto/static/js/runtime-main.11bb8929.js",
     "runtime-main.js.map": "/Site-Neto/static/js/runtime-main.11bb8929.js.map",
     "static/js/2.1cd5aaf8.chunk.js": "/Site-Neto/static/js/2.1cd5aaf8.chunk.js",
@@ -27,6 +27,6 @@
     "static/js/runtime-main.11bb8929.js",
     "static/js/2.1cd5aaf8.chunk.js",
     "static/css/main.cfe319ab.chunk.css",
-    "static/js/main.791ff501.chunk.js"
+    "static/js/main.7da50fa4.chunk.js"
   ]
 }
