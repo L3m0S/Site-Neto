@@ -1,32 +1,32 @@
 {
   "files": {
-    "main.css": "/Site-Neto/static/css/main.cfe319ab.chunk.css",
-    "main.js": "/Site-Neto/static/js/main.82d72269.chunk.js",
-    "main.js.map": "/Site-Neto/static/js/main.82d72269.chunk.js.map",
+    "main.css": "/Site-Neto/static/css/main.578bb897.chunk.css",
+    "main.js": "/Site-Neto/static/js/main.0e26788f.chunk.js",
+    "main.js.map": "/Site-Neto/static/js/main.0e26788f.chunk.js.map",
     "runtime-main.js": "/Site-Neto/static/js/runtime-main.11bb8929.js",
     "runtime-main.js.map": "/Site-Neto/static/js/runtime-main.11bb8929.js.map",
     "static/js/2.1cd5aaf8.chunk.js": "/Site-Neto/static/js/2.1cd5aaf8.chunk.js",
     "static/js/2.1cd5aaf8.chunk.js.map": "/Site-Neto/static/js/2.1cd5aaf8.chunk.js.map",
     "index.html": "/Site-Neto/index.html",
-    "static/css/main.cfe319ab.chunk.css.map": "/Site-Neto/static/css/main.cfe319ab.chunk.css.map",
+    "static/css/main.578bb897.chunk.css.map": "/Site-Neto/static/css/main.578bb897.chunk.css.map",
     "static/js/2.1cd5aaf8.chunk.js.LICENSE.txt": "/Site-Neto/static/js/2.1cd5aaf8.chunk.js.LICENSE.txt",
-    "static/media/Rectangle 3.6026691e.svg": "/Site-Neto/static/media/Rectangle 3.6026691e.svg",
-    "static/media/btnUser.c4454bdc.svg": "/Site-Neto/static/media/btnUser.c4454bdc.svg",
+    "static/media/Rectangle 3.a31b21f7.svg": "/Site-Neto/static/media/Rectangle 3.a31b21f7.svg",
+    "static/media/btnUser.aad7cbaa.svg": "/Site-Neto/static/media/btnUser.aad7cbaa.svg",
     "static/media/com4logo.429554b8.png": "/Site-Neto/static/media/com4logo.429554b8.png",
-    "static/media/img1BandaLarga.02799603.svg": "/Site-Neto/static/media/img1BandaLarga.02799603.svg",
-    "static/media/img1Contato.5b80f7f9.svg": "/Site-Neto/static/media/img1Contato.5b80f7f9.svg",
-    "static/media/img1Login.e42c35c2.svg": "/Site-Neto/static/media/img1Login.e42c35c2.svg",
-    "static/media/img2.27b3df7a.svg": "/Site-Neto/static/media/img2.27b3df7a.svg",
-    "static/media/img2BMainPage.a1d75a76.svg": "/Site-Neto/static/media/img2BMainPage.a1d75a76.svg",
-    "static/media/img2BandaLarga.0e157675.svg": "/Site-Neto/static/media/img2BandaLarga.0e157675.svg",
-    "static/media/img2DataCenter.de2ca1e5.svg": "/Site-Neto/static/media/img2DataCenter.de2ca1e5.svg",
-    "static/media/img2Login.e787d713.svg": "/Site-Neto/static/media/img2Login.e787d713.svg",
-    "static/media/imgUser.203c1db1.svg": "/Site-Neto/static/media/imgUser.203c1db1.svg"
+    "static/media/img1BandaLarga.cac464b1.svg": "/Site-Neto/static/media/img1BandaLarga.cac464b1.svg",
+    "static/media/img1Contato.33c5eac2.svg": "/Site-Neto/static/media/img1Contato.33c5eac2.svg",
+    "static/media/img1Login.6d6a83c1.svg": "/Site-Neto/static/media/img1Login.6d6a83c1.svg",
+    "static/media/img2.c456c970.svg": "/Site-Neto/static/media/img2.c456c970.svg",
+    "static/media/img2BMainPage.511ede2c.svg": "/Site-Neto/static/media/img2BMainPage.511ede2c.svg",
+    "static/media/img2BandaLarga.38e19a15.svg": "/Site-Neto/static/media/img2BandaLarga.38e19a15.svg",
+    "static/media/img2DataCenter.dc5b9b40.svg": "/Site-Neto/static/media/img2DataCenter.dc5b9b40.svg",
+    "static/media/img2Login.52c42817.svg": "/Site-Neto/static/media/img2Login.52c42817.svg",
+    "static/media/imgUser.ccdd0c02.svg": "/Site-Neto/static/media/imgUser.ccdd0c02.svg"
   },
   "entrypoints": [
     "static/js/runtime-main.11bb8929.js",
     "static/js/2.1cd5aaf8.chunk.js",
-    "static/css/main.cfe319ab.chunk.css",
-    "static/js/main.82d72269.chunk.js"
+    "static/css/main.578bb897.chunk.css",
+    "static/js/main.0e26788f.chunk.js"
   ]
 }
