@@ -1,0 +1,40 @@
+.imgContato {
+    height: 100%;
+    width: 100%;
+}
+
+.formContato {
+    margin-left: 34%;
+    margin-top: 20px;
+    display: flex;
+    align-items: center;
+}
+
+.inputs1 {
+    
+        border: 2px solid #D3E2E5;
+        box-sizing: border-box;
+        border-radius: 20px;
+        height: 49px;
+        width: 417px;
+        font-family: Roboto;
+        font-size: 16px;
+    
+}
+
+.inputs1::placeholder{
+    padding-left: 10px;
+}
+
+.inputs1-text {
+        border: 2px solid #D3E2E5;
+        box-sizing: border-box;
+        border-radius: 20px;
+        height: 100px;
+        width: 417px;
+        font-family: Roboto;
+        font-size: 16px;
+}   
+.btnForm {
+    padding-left: 26px;
+}

@@ -1,0 +1,23 @@
+html {
+    margin: 0px;
+    padding: 0px;
+}
+
+.img1 {
+    height: 100%;
+    margin: 0px;
+    padding: 0px;
+}
+
+.container {
+    display: flex;
+    margin-left: 0;
+}
+
+.img2{
+    position: relative;
+    width: 90%;
+    height: 80%;
+    padding-left: 5.1%;
+    padding-top: 3%;
+}

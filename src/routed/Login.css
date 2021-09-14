@@ -1,0 +1,46 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,300;1,100&display=swap');
+
+.img1Login {
+    width: 100%;
+    height: 100%;
+    max-width: 450px;
+    margin-left: 31%;
+}
+
+.container2Login {
+    margin-left: 31%;
+    margin-top: 5%;
+}
+
+.form {
+    padding-left: 31%;
+    padding-top: 2%;
+}
+
+.div1 {
+    padding-left: 31%;
+    padding-top: 2%;
+}
+.loginInput {
+    border: 2px solid #D3E2E5;
+    box-sizing: border-box;
+    border-radius: 20px;
+    height: 49px;
+    width: 417px;
+    font-family: Roboto;
+    font-size: 16px;
+}
+
+.loginInput::placeholder{
+    padding-left: 10px;
+}
+
+.divBtn {
+    margin-left: 58.1%;
+    margin-top: 0.4%;
+}
+
+.imgBtn {
+    height: 70px;
+    width: 70px;
+}
