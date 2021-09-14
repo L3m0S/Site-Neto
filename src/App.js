@@ -1,4 +1,4 @@
-import { BrowserRouter, Route, Switch } from 'react-router-dom'
+import { HashRouter as BrowserRouter, Route, Switch } from 'react-router-dom'
 import MainPage from './routed/MainPage';
 import Contato from './routed/Contato';
 import Login from './routed/Login';
@@ -17,19 +17,19 @@ function App() {
               <MainPage/>
             </Route>
 
-            <Route path='/contato'>
+            <Route path='/contato'  exact={true}>
               <Contato/>
             </Route>
 
-            <Route path="/banda-larga">
+            <Route path="/banda-larga"  exact={true}>
               <BandaLarga/>
             </Route>
 
-            <Route path="/data-center">
+            <Route path="/data-center"  exact={true}>
               <DataCenter/>
             </Route>
 
-            <Route path="/login">
+            <Route path="/login"  exact={true}>
               <Login/>
             </Route>
           </Switch>
