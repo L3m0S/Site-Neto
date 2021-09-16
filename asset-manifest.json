@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/Site-Neto/static/css/main.cfe319ab.chunk.css",
+    "main.css": "/Site-Neto/static/css/main.9a5e4cdc.chunk.css",
     "main.js": "/Site-Neto/static/js/main.82d72269.chunk.js",
     "main.js.map": "/Site-Neto/static/js/main.82d72269.chunk.js.map",
     "runtime-main.js": "/Site-Neto/static/js/runtime-main.11bb8929.js",
@@ -8,7 +8,7 @@
     "static/js/2.1cd5aaf8.chunk.js": "/Site-Neto/static/js/2.1cd5aaf8.chunk.js",
     "static/js/2.1cd5aaf8.chunk.js.map": "/Site-Neto/static/js/2.1cd5aaf8.chunk.js.map",
     "index.html": "/Site-Neto/index.html",
-    "static/css/main.cfe319ab.chunk.css.map": "/Site-Neto/static/css/main.cfe319ab.chunk.css.map",
+    "static/css/main.9a5e4cdc.chunk.css.map": "/Site-Neto/static/css/main.9a5e4cdc.chunk.css.map",
     "static/js/2.1cd5aaf8.chunk.js.LICENSE.txt": "/Site-Neto/static/js/2.1cd5aaf8.chunk.js.LICENSE.txt",
     "static/media/Rectangle 3.6026691e.svg": "/Site-Neto/static/media/Rectangle 3.6026691e.svg",
     "static/media/btnUser.c4454bdc.svg": "/Site-Neto/static/media/btnUser.c4454bdc.svg",
@@ -26,7 +26,7 @@
   "entrypoints": [
     "static/js/runtime-main.11bb8929.js",
     "static/js/2.1cd5aaf8.chunk.js",
-    "static/css/main.cfe319ab.chunk.css",
+    "static/css/main.9a5e4cdc.chunk.css",
     "static/js/main.82d72269.chunk.js"
   ]
 }
